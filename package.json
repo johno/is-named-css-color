@@ -15,14 +15,19 @@
     "url": "https://github.com/johnotander/is-named-css-color.git"
   },
   "keywords": [
-
+    "css",
+    "colors",
+    "named",
+    "color"
   ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/johnotander/is-named-css-color/issues"
   },
   "homepage": "https://github.com/johnotander/is-named-css-color",
-  "dependencies": {},
+  "dependencies": {
+    "css-color-list": "0.0.1"
+  },
   "devDependencies": {
     "mocha": "*"
   }
