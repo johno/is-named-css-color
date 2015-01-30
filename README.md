@@ -13,7 +13,7 @@ npm install --save is-named-css-color
 ## Usage
 
 ```javascript
-var isNamedCssColor = require('is-named-css-color');
+var isNamedCssColor = require('is-named-css-color')
 
 isNamedCssColor('tomato')           // => true
 isNamedCssColor('blue')             // => true
