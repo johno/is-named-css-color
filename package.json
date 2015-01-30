@@ -1,0 +1,29 @@
+{
+  "name": "is-named-css-color",
+  "description": "Check whether a string is a named CSS color.",
+  "author": "John Otander",
+  "version": "0.0.1",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnotander/is-named-css-color.git"
+  },
+  "keywords": [
+
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnotander/is-named-css-color/issues"
+  },
+  "homepage": "https://github.com/johnotander/is-named-css-color",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
