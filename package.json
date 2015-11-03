@@ -2,7 +2,7 @@
   "name": "is-named-css-color",
   "description": "Check whether a string is a named CSS color.",
   "author": "John Otander",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "index.js",
   "files": [
     "index.js"
