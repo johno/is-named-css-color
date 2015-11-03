@@ -2,8 +2,8 @@
 
 var cssColors = require('css-color-list')
 
-module.exports = function isNamedCssColor(color) {
-  if (typeof color != 'string') {
+module.exports = function isNamedCssColor (color) {
+  if (typeof color !== 'string') {
     throw new TypeError('is-named-css-color expects a string')
   }
 
