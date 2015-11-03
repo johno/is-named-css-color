@@ -1,6 +1,4 @@
-# is-named-css-color
-
-[![Build Status](https://secure.travis-ci.org/johnotander/is-named-css-color.png?branch=master)](https://travis-ci.org/johnotander/is-named-css-color)
+# is-named-css-color [![Build Status](https://secure.travis-ci.org/johnotander/is-named-css-color.png?branch=master)](https://travis-ci.org/johnotander/is-named-css-color)
 
 Check whether a string is a named CSS color.
 

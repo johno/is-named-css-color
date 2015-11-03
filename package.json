@@ -4,16 +4,13 @@
   "author": "John Otander",
   "version": "0.0.1",
   "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
+  "files": [
+    "index.js"
+  ],
   "scripts": {
-    "test": "mocha test"
+    "test": "ava"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/johnotander/is-named-css-color.git"
-  },
+  "repository": "johnotander/is-named-css-color",
   "keywords": [
     "css",
     "colors",
@@ -21,14 +18,10 @@
     "color"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/johnotander/is-named-css-color/issues"
-  },
-  "homepage": "https://github.com/johnotander/is-named-css-color",
   "dependencies": {
     "css-color-list": "0.0.1"
   },
   "devDependencies": {
-    "mocha": "*"
+    "ava": "^0.3.0"
   }
 }
